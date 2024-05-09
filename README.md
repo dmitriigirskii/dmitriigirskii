@@ -1,5 +1,5 @@
 ### Hi there 👋
-www.Girskii.ru
+www.Girskii.com
 
 <!--
 **dmitriigirskii/dmitriigirskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
